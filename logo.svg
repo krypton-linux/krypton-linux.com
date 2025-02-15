@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.819199mm"
+   height="9.1086464mm"
+   viewBox="0 0 39.819198 9.1086465"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="matrix(0.42534114,0,0,0.42534114,-40.366054,-52.322622)">
+    <path
+       id="rect1"
+       style="fill:#e6e6e6;stroke-width:0.0907611"
+       d="m 94.902775,123.01331 h 10.716365 m 0,0 v 10.71636 H 94.902775 m 0,0 v -10.71636" />
+    <path
+       id="rect1-5"
+       style="fill:#00d2ce;fill-opacity:1;stroke-width:0.0907611"
+       d="m 116.33555,123.02019 h -10.71637 m 0,0 v 10.71636 h 10.71637 m 0,0 v -10.71636" />
+    <path
+       id="rect1-5-2"
+       style="fill:#00a5d2;fill-opacity:1;stroke-width:0.0907611"
+       d="m 94.915429,144.42823 h 10.716361 m 0,0 V 133.71186 H 94.915429 m 0,0 v 10.71637" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:0.118386"
+       id="rect2"
+       width="15.114963"
+       height="1.4115418"
+       x="-37.512058"
+       y="176.11281"
+       transform="matrix(0.71651238,-0.69757437,0.74632919,0.665577,0,0)" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:0.0829748"
+       id="rect2-7"
+       width="7.7486839"
+       height="1.3525918"
+       x="131.59731"
+       y="112.76664"
+       transform="matrix(0.97946521,0.20161323,-0.2258952,0.97415161,0,0)" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:0.0811029"
+       id="rect2-7-6"
+       width="7.2299895"
+       height="1.3849758"
+       x="150.86508"
+       y="-81.404572"
+       transform="matrix(0.19682922,0.98043779,-0.98066677,0.19568515,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.3682px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#28b4d8;fill-opacity:1;stroke:none;stroke-width:1.85622"
+       x="117.58025"
+       y="138.38"
+       id="text1"><tspan
+         id="tspan1"
+         style="fill:#28b4d8;fill-opacity:1;stroke:none;stroke-width:1.85621"
+         x="117.58025"
+         y="138.38">&gt;Krypton_</tspan></text>
+  </g>
+</svg>
