@@ -1,84 +1,56 @@
 <!DOCTYPE html>
 <html lang="ja">
-    <head>
-        <meta charset="utf-8">
 
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
-        <title>Krypton - Top</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&family=Zen+Maru+Gothic:wght@300&display=swap" rel="stylesheet">
 
-        <link href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="./css/my-sheet.css">
+    <title>Krypton Linux</title>
+  </head>
 
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&family=Zen+Maru+Gothic:wght@300&display=swap" rel="stylesheet">
+  <body>
 
-    </head>
-    <body>
-        <script src="https://unpkg.com/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
+    <div class="navbar">
+      <nav>
+        <img class="logo" src="images/logo.svg" height=35px width=auto>
+        <ul>
+          <li><a href="https://github.com/krypton-linux">GitHub</a></li>
+          <li><a href="https://github.com/orgs/krypton-linux/people">Developers</a></li>
+          <li><a href="#">Downloads</a></li>
+        </ul>
+      </nav>
+    </div>
 
-        <nav class="navbar fixed-top navbar-expand-lg" style="
-        background-color: rgb(230 230 230 / 0.5);
-        backdrop-filter: blur(10px);
-        border: 2px solid rgba(255, 255, 255, 0.1);">
+    <div class="hero">
+      <div>
+        <img class="hero-logo" src="images/rect.svg" height=150px width=150>
+        <h1>Krypton Linux</h1>
+        <p>最新で高機能、高速(軽量とは言ってない)なArchベースのLinuxディストロ.</p>
+      </div>
 
-            <div class="container-fluid">
+      <div class="buttons">
+        <a class="dl-btn" href="https://">Download</a>
+        <a class="more-btn" href="https://">Learn more</a>
+      </div>
+    </div>
 
-                <a class="navbar-brand" href="#">
-                    <img src="./logo.svg"></img>
-                </a>
+    <div class="about">
+      <div>
+        <h1>圧倒的な簡単さ</h1>
+        <p>KryptonはインストーラにCalamaresを使用するため、本家Archより圧倒的にインストールが簡単です。<br>
+           また、デスクトップはすでに日本語化されており、日本語入力も可能で、追加の設定が必要ありません。<br>
+           初心者の方がArch系を使用する第一歩となれると思います。<br>
+           あとちょっとAlter Linuxの二番煎じ感もあります((((</p>
+      </div>
+    </div>
 
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Top</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="#">Download</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="#">Github</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="#">Developers</a>
-                    </li>
-                </ul>
-                </div>
-            </div>
-            </nav>
+    <div class="about2">
 
-            <div class="hero vh-100 d-flex align-items-center" id="top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-7 mx-auto">
-                            <h1 class="display-4 text-black">Krypton</h1>
-                            <p class="text-black my-3">
-                                mintのように簡単に使えるローリングリリースのLinuxディストロ。
-                            </p>
-                            <a href="#" class="btn btn-primary me-2">Download</a>
-                            <a href="#" class="btn btn-outline-dark">詳細</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    </div>
 
-            <div class="about d-flex justify-content-center align-items-center">
-
-                <div>
-                    <h1>Kryptonについて</h1>
-                    <p>Kryptonは、小学6年生が一人で開発を始めたLinuxディストロです。<br>
-                        Arch Linuxをベースとし、簡単に使えるLinuxディストリビューションを目指しています。<br>
-                        デスクトップにはKDE Plasmaを使用しています。
-                    </p>
-                </div>
-
-                <img>
-
-            </div>
-
-        </body>
-    </html>
+  </body>
+</html>

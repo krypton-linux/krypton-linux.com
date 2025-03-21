@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="41.463631mm"
+   height="41.533424mm"
+   viewBox="0 0 41.463631 41.533425"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <ellipse
+     style="opacity:0.958346;fill:#f5f5f5;fill-opacity:1;stroke-width:0.174349"
+     id="path1"
+     cx="20.731815"
+     cy="20.766714"
+     rx="20.731815"
+     ry="20.766714" />
+  <g
+     id="layer1"
+     transform="matrix(0.1822209,0,0,0.18364859,1.7903046,-4.2910322)">
+    <path
+       id="rect1"
+       style="fill:#e6e6e6;stroke-width:0.784553"
+       d="M 11.204187,41.157822 H 103.8384 m 0,0 V 133.79203 H 11.204187 m 0,0 V 41.157822" />
+    <path
+       id="rect1-5"
+       style="fill:#00d2ce;fill-opacity:1;stroke-width:0.784553"
+       d="m 196.47293,41.217302 h -92.63422 m 0,0 v 92.634208 h 92.63422 m 0,0 V 41.217302" />
+    <path
+       id="rect1-5-2"
+       style="fill:#00a5d2;fill-opacity:1;stroke-width:0.784553"
+       d="M 11.313519,226.27231 H 103.9477 m 0,0 v -92.6342 H 11.313519 m 0,0 v 92.6342" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:1.02335"
+       id="rect2"
+       width="130.65646"
+       height="12.201622"
+       x="-99.364021"
+       y="222.2623"
+       transform="matrix(0.71651238,-0.69757437,0.74632919,0.665577,0,0)" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:0.717248"
+       id="rect2-7"
+       width="66.981026"
+       height="11.692047"
+       x="118.09053"
+       y="136.45116"
+       transform="matrix(0.97946521,0.20161323,-0.2258952,0.97415161,0,0)" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:0.70107"
+       id="rect2-7-6"
+       width="62.497337"
+       height="11.971982"
+       x="143.33594"
+       y="-111.54884"
+       transform="matrix(0.19682922,0.98043779,-0.98066677,0.19568515,0,0)" />
+  </g>
+</svg>
