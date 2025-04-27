@@ -107,7 +107,7 @@ a:hover {
 }
 
 .about2 {
-    display: flex;
+    display: block;
     background-color: #76d8ff;
     color: white;
     justify-content: center;
