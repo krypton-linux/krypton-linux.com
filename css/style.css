@@ -108,3 +108,15 @@ a:hover {
 .title {
     font-size: 50px
 }
+
+.dl {
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+}
