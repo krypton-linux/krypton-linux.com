@@ -77,6 +77,16 @@ a:hover {
     margin: 5px;
 }
 
+.dl-btn2 {
+    display: block;
+    width: 50px;
+    color: white;
+    background-color: #298cff;
+    border-radius: 8px;
+    padding: 6px 12px;
+    margin: 5px;
+}
+
 .more-btn {
     display: block;
     color: white;
@@ -118,5 +128,5 @@ a:hover {
 
 .footer {
     display: flex;
-    align-items: center;
+    text-align: center;
 }
